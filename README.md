@@ -1,2 +1,2 @@
 # Maymays
-Az gei
+Idk
