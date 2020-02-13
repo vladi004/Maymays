@@ -1,0 +1,6 @@
+D:\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe.config
+D:\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.exe
+D:\ConsoleApplication37\ConsoleApplication37\bin\Debug\ConsoleApplication37.pdb
+D:\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.exe
+D:\ConsoleApplication37\ConsoleApplication37\obj\Debug\ConsoleApplication37.pdb
